@@ -243,12 +243,12 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🔰Join Channel🔰", url="https://t.me/malluinstafollowers"),
+                    InlineKeyboardButton("🔰Join Channel🔰", url="https://t.me/Badsha_Studios"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("🔰Join Group🔰", url="https://t.me/malluinstaufollowers"),
-                    InlineKeyboardButton("details about Group", url="https://t.me/Malluinstabot")
+                    InlineKeyboardButton("🔰Join Group🔰", url="https://t.me/Suport_Badsha_Studios"),
+                    InlineKeyboardButton("ʙᴀᴅsʜᴀ ᴏᴛᴛ", url="https://t.me/+z0yn0CUgimRmNWFl")
                 ]
             ]
         ),
@@ -265,7 +265,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/DarkDevil1265/Unlimited-filter-bot-RJ")
+                        "Contact Me", url="https://t.me/kingBadsha3232")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
