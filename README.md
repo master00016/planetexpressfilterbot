@@ -75,7 +75,7 @@
 ## You can Join PLANET EXPRESS GROUP 
 [Click here to join ](https://t.me/PLANETEXPRESSMARVELGROUP)
 
-Thanks to [PLANET EXPRESS MARVEL](https://t.me/+gz9_aTZm-Vs4Mzhl) and [Planet Express]() 
+Thanks to [PLANET EXPRESS MARVEL](https://t.me/+gz9_aTZm-Vs4Mzhl) and [Planet Express](https://t.me/ivaldena) 
 
 
 ## Any bugs or errors or suggestions, report at [mrtechnocratinsta](https://t.me/PLANETEXPRESSMARVELGROUP)
