@@ -78,7 +78,7 @@
 Thanks to [PLANET EXPRESS MARVEL](https://t.me/+gz9_aTZm-Vs4Mzhl) and [Planet Express]() 
 
 
-## Any bugs or errors or suggestions, report at [mrtechnocratinsta](https://t.me/mrtechnocratinsta)
+## Any bugs or errors or suggestions, report at [mrtechnocratinsta](https://t.me/PLANETEXPRESSMARVELGROUP)
 
 
 ## Installation
