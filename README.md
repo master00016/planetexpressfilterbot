@@ -72,11 +72,10 @@
 * `/info <userid>`  -  Shows User Information. Also use `/info` as reply to some message for their details!
 
 
-## You can check the video tutorial on how to deploy
+## You can Join PLANET EXPRESS GROUP 
+[Click here to join ](https://t.me/PLANETEXPRESSMARVELGROUP)
 
-[Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
-
-Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
+Thanks to [PLANET EXPRESS MARVEL](https://t.me/+gz9_aTZm-Vs4Mzhl) and [Planet Express]() 
 
 
 ## Any bugs or errors or suggestions, report at [RJMALLU](https://t.me/RJMALLU)
@@ -85,12 +84,12 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken]
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Badsha323/filter)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/master00016/planetexpressfilterbot)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/DarkDevil1265/Unlimited-filter-bot-RJ
-cd Unlimited-Filter-Bot
+git clone https://github.com/master00016
+cd planetexpressfilterbot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 bot.py
