@@ -19,9 +19,9 @@
   </a>  
 </p>
 
-[![PLANETEXPRESS](https://img.shields.io/badge/PLANET EXPRESS MARVEL-Channel-red?style=for-the-badge&logo=telegram)](https://t.me/+gz9_aTZm-Vs4Mzhl)  
+[![PLANETEXPRESS](https://t.me/+gz9_aTZm-Vs4Mzhl)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![PLANETEXPRESS](https://img.shields.io/badge/PLANET EXPRESS-Support-blue?style=flat&logo=telegram)](https://t.me/ivaldena) 
+[![PLANETEXPRESS](https://t.me/ivaldena) 
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/master00016/planetexpressfilterbot-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/master00016/planetexpressfilterbot)
 
